@@ -256,3 +256,4 @@ detach(dt)
 stargazer::stargazer(mod1, mod2, mod3, type = "text", title = "Table 1: Regression Results")
 stargazer::stargazer(mod4, mod5, mod6, type = "text", title = "Table 2: Regression Results")
 
+#Robustness tests
